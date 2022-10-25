@@ -1,12 +1,15 @@
 {
   "name": "aleo-cookieclicker",
   "version": "1.0.0",
-  "description": "",
+  "description": "Cookieclicker application written in Aleo zero-knowledge language ",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node main.js"
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "readline-async": "^0.1.0"
+  }
 }

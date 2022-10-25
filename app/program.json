@@ -1,0 +1,10 @@
+{
+    "program": "cookieclicker.aleo",
+    "version": "0.0.0",
+    "description": "",
+    "development": {
+        "private_key": "APrivateKey1zkpF4JU9gWrgrRG94F3LgtFhCkems2R6A8kktmmeUCRA6Kz",
+        "address": "aleo1htu9gd94cru42gd6y0jmgqkvgnx7rjk99xerrde06su6vmg87vyshdmwk2"
+    },
+    "license": "MIT"
+}
