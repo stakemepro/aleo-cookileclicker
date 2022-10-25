@@ -4,6 +4,7 @@
   "description": "Cookieclicker application written in Aleo zero-knowledge language ",
   "main": "index.js",
   "scripts": {
+    "buid": "cd app && aleo build",
     "start": "node main.js"
   },
   "keywords": [],
